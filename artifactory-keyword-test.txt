@@ -1,0 +1,2 @@
+artifactrepo.jnj.com
+GitHub PAT: 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
